@@ -1,2 +1,4 @@
 # LimeImageClassification
-LimeI mage Classification
+Lime Image Classification
+![alt text](/App.jpg)
+
